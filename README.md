@@ -1,3 +1,3 @@
-# Portfolio
+# Portfolio personal
 
-Creació del meu primer portfolio amb CSS pur + SASS
+Projecte portafolis amb CSS pur + SASS
